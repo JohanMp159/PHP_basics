@@ -1,0 +1,12 @@
+/*AJAX nos permite recargar solo una seccion de la pagina que necesita ser actualizada, para que las refresh sean mas rapidos.
+
+Permite hacer paginas Web mucho mas interactivas
+*/
+
+XMLHttpRequest
+Es un objeto que nos permitr hacer peticiones con el servidor.
+
+readyState
+A nivel de petición tiene 4 pasos, cuando llega a 4 nos indica que esta lista la petición y el estatus = 200 nos indica que ya la finalizo y ya la completo.
+
+data: son los datos que se van a enviar y se van a recivbir y guardar... Forma INSERT
